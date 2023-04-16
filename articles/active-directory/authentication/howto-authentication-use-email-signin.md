@@ -169,7 +169,7 @@ During preview, you can currently only enable email as an alternate login ID usi
 1. Sign-in to your Azure AD tenant using the `Connect-MgGraph` cmdlet:
 
     ```powershell
-    Connect-MgGraph -Scopes "Policy.ReadWrite.ApplicationConfiguration" -TenantId organizations
+    Connect-MgGraph -Scopes "Policy.Read.All","Policy.ReadWrite.ApplicationConfiguration" -TenantId organizations
     ```
 
     The command will ask you to authenticate using a web browser.

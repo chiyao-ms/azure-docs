@@ -42,7 +42,6 @@ Administrators can assign a Conditional Access policy to the following cloud app
 - Microsoft Application Insights Analytics
 - [Microsoft Azure Information Protection](/azure/information-protection/faqs#i-see-azure-information-protection-is-listed-as-an-available-cloud-app-for-conditional-accesshow-does-this-work)
 - [Microsoft Azure Management](#microsoft-azure-management)
-- Microsoft Azure Subscription Management
 - Microsoft Defender for Cloud Apps
 - Microsoft Commerce Tools Access Control Portal
 - Microsoft Commerce Tools Authentication Service
@@ -58,7 +57,9 @@ Administrators can assign a Conditional Access policy to the following cloud app
 - Microsoft Teams
 - Exchange Online
 - SharePoint
-- Yammer
+- Yammer![image](https://github.com/MicrosoftDocs/azure-docs/assets/28209857/d9a3210e-d726-4c45-8e7f-69edd2670726)
+![image](https://github.com/MicrosoftDocs/azure-docs/assets/28209857/ddb8ed29-4064-42b9-a3b0-711ca8af70d7)
+
 - Office Delve
 - Office Sway
 - Outlook Groups
